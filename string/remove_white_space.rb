@@ -1,0 +1,1 @@
+puts "        aloooo d d d d        ".strip
