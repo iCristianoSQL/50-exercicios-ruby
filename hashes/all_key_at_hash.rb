@@ -1,7 +1,7 @@
 def all_keys_hash(hash)
     for key in hash.keys
         p key
-      end
+    end
 end
 
 all_keys_hash(
